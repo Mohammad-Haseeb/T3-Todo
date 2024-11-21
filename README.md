@@ -64,7 +64,7 @@ This is a modern, responsive Task Management Application built with React and Ty
    Add the following variables to `.env` file:
 
 ```
-     DATABASE_URL="postgres://postgres:password@localhost:5 432/dbName?schema=public"
+     DATABASE_URL="postgres://postgres:password@localhost:5432/dbName?schema=public"
      NEXT_PUBLIC_URL= "http://localhost:3000"
 ```
 
