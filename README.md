@@ -1,7 +1,6 @@
 # Task Management Application
 
 ## Overview
-
 This is a modern, responsive Task Management Application built with React and TypeScript. It allows users to create, edit, delete, and mark tasks as complete. The application uses tRPC for type-safe API calls and Zustand for state management.
 
 ## Features
